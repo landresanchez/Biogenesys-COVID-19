@@ -15,8 +15,8 @@ Identificar las ubicaciones óptimas para la expansión de laboratorios farmacé
 ---
 ### 	:file_cabinet: Fuentes de Datos
 
-•	Dataset proporcionado por el equipo de ingeniería de datos, enfocado en países de Latinoamérica.
-•	Peso del archivo original es de 21 GB con alrededor de 22 millones de registros y 707 columnas formato CSV.
+- Dataset proporcionado por el equipo de ingeniería de datos, enfocado en países de Latinoamérica.
+- Peso del archivo original es de 21 GB con alrededor de 22 millones de registros y 707 columnas formato CSV.
 ---
 
 ### :clipboard: Tareas:
