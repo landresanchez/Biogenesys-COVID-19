@@ -13,6 +13,11 @@ La empresa farmacéutica BIOGENESYS busca identificar las ubicaciones óptimas p
 Identificar las ubicaciones óptimas para la expansión de laboratorios farmacéuticos de la empresa BIOGENESYS, basándose en el análisis de datos de incidencia de COVID-19, tasas de vacunación, y la disponibilidad de infraestructuras sanitarias, con el fin de optimizar la respuesta a los efectos de la pandemia y post pandemia, mejorando el acceso a las vacunas
 
 ---
+### 	:file_cabinet: Fuentes de Datos
+
+•	Dataset proporcionado por el equipo de ingeniería de datos, enfocado en países de Latinoamérica.
+•	Peso del archivo original es de 21 GB con alrededor de 22 millones de registros y 707 columnas formato CSV.
+---
 
 ### :clipboard: Tareas:
 
