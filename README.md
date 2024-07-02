@@ -1,7 +1,10 @@
+---
 <div align="center">
-  <h1 style="font-weight:bold;">
+   <h1 style="font-weight:bold;">
     📊 Análisis estratégico Biogenesys 
-
+  </h1>
+</div> 
+  
 ---
 
 ###  Descripción del Proyecto:
